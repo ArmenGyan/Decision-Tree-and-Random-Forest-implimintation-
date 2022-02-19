@@ -1,2 +1,2 @@
 # Decision-Tree-and-Random-Forest-implimintation-
-Decision Tree and Random Forest implimintation. Practical homework in (ACA ML Bootcamp)
+Decision Tree and Random Forest implimintation. Practical work in (ACA ML Bootcamp)
